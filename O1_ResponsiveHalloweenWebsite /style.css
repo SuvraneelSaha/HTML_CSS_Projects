@@ -1,0 +1,14 @@
+html{
+  box-sizing: border-box;
+}
+
+*,*::after,*::before{
+  box-sizing: inherit;
+  
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+body{
+  font-family: 'Jolly Lodger' , cursive;
+}
